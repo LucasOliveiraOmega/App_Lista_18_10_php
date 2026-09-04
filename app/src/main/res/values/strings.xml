@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App_Lista_18_10_php</string>
+
+    <string name="Aluno">Cadastrar Aluno na ETEC</string>
+
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Buscar">Buscar</string>
+
+    <string name="nome">Digite seu Nome</string>
+    <string name="curso">Digite seu Curso</string>
+    <string name="Cidade">Digite seu Cidade</string>
+    <string name="cpf">Digite seu CPF</string>
+    <string name="eMail">Digite seu E-Mail</string>
+    <string name="telefone">Digite seu telefone</string>
+
+    <string name="Cad">Cadastrar</string>
+    <string name="Editar">Editar</string>
+    <string name="Excluir">Excluir</string>
+
+    <string name="Localizar">Localizar nome</string>
+
+</resources>
