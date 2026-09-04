@@ -93,11 +93,11 @@
 
     <Button
         android:id="@+id/btnCad"
-        android:layout_width="175dp"
-        android:layout_height="48dp"
+        android:layout_width="183dp"
+        android:layout_height="56dp"
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/agua"
-        android:padding="15px"
+        android:padding="15dp"
         android:text="@string/Cad"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -105,11 +105,11 @@
 
     <Button
         android:id="@+id/edtEditar"
-        android:layout_width="175dp"
-        android:layout_height="48dp"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
         android:layout_marginTop="16dp"
-        android:padding="15px"
         android:backgroundTint="@color/agua"
+        android:padding="15dp"
         android:text="@string/Editar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -118,11 +118,11 @@
 
     <Button
         android:id="@+id/edtExcluir"
-        android:layout_width="175dp"
-        android:layout_height="48dp"
+        android:layout_width="203dp"
+        android:layout_height="57dp"
         android:layout_marginTop="16dp"
-        android:padding="15px"
         android:backgroundTint="@color/agua"
+        android:padding="15dp"
         android:text="@string/Excluir"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
